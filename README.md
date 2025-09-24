@@ -5,12 +5,6 @@ elpCamp is a full-stack web application I created that is inspired by Yelp, but 
 ## Live Demo
 [https://yelpcamp-app-velf.onrender.com]
 
-## Screenshots
-Click to expand screenshots:
-[![Screenshot 1](images/Screenshot%20%2836%29.png)](images/Screenshot%20%2836%29.png)
-[![Screenshot 2](images/Screenshot%20%2837%29.png)](images/Screenshot%20%2837%29.png)
-[![Screenshot 3](images/Screenshot%20%2842%29.png)](images/Screenshot%20%2842%29.png)
-
 
 ## Features
 
